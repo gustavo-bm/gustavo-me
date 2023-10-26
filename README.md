@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavo-me
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning CC50
+- 🌱 I’m currently learning CC
 - 💞️ I’m looking to collaborate on society
 - 📫 How to reach me g.bianchinimoraes@gmail.com 
 
